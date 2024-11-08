@@ -8,8 +8,6 @@ I am continuously seeking opportunities to expand my knowledge and work on chall
 
 --- 
 
-This should work well as a concise and professional introduction. Let me know if you'd like any adjustments!
-
 <!---
 jixianshuo/jixianshuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
